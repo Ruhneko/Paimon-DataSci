@@ -4,14 +4,3 @@ This repository contains the code used to collect and analyze the PS4 datasets f
 The PS4 Games Data Exploration - Web Scraping notebook contains the code used to scrape the data from https://ps-timetracker.com/, https://www.gamepressure.com/, and https://www.vgchartz.com/.
 
 The PS4 Games Data Exploration - Processing notebook contains the code used to analyze the collected data. To avoid the need to datascrape, simply unzip the Datasets file and use the contents on the Processing notebook. 
-
-## Contributors
-Custodio, Nicholas Rupert E.
-
-Delima Jr., Reynaldo K.
-
-Jatico II, Nilo Cantil K.
-
-Sanchez, Martin Christopher B.
-
-Tan, Jedwig Siegfrid S.
